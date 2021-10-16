@@ -16,4 +16,6 @@ Save it as hello.py or something similar. Make sure to not call your application
 
 To run the application, use the flask command or python -m flask. Before you can do that you need to tell your terminal the application to work with by exporting the FLASK_APP environment variable:
 
-![image](https://user-images.githubusercontent.com/76660005/137589473-3fb392df-243e-43e5-960e-b8003b8b8386.png)
+
+#output
+![image](https://user-images.githubusercontent.com/76660005/137589564-fb421a1d-33a3-4663-839a-f3d88d6cd683.png)
