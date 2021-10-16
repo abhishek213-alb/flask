@@ -15,7 +15,8 @@ The function returns the message we want to display in the user’s browser. The
 Save it as hello.py or something similar. Make sure to not call your application flask.py because this would conflict with Flask itself.
 
 To run the application, use the flask command or python -m flask. Before you can do that you need to tell your terminal the application to work with by exporting the FLASK_APP environment variable:
-
-
+```
 #output
 ![image](https://user-images.githubusercontent.com/76660005/137589564-fb421a1d-33a3-4663-839a-f3d88d6cd683.png)
+
+
